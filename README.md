@@ -4,4 +4,4 @@ I work on these problems to brush up on my problem-solving skills, learn creativ
 
 You can see all my completed problems at https://www.codewars.com/users/chinnick967/completed, but the website hides my solutions to prevent cheating. You'll find all my solutions here in this repository (with a copy of the problems).
 
-I currently sit in the top 16% of coders on Codewars.
+I currently sit in the top 12% of coders on Codewars.
